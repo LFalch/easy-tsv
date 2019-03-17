@@ -1,0 +1,7 @@
+[package]
+name = "easy-tsv"
+version = "0.1.0"
+authors = ["LFalch <lucas@wasd.dk>"]
+edition = "2018"
+
+[dependencies]
